@@ -1,4 +1,4 @@
-commandcreate("sa", "<@-userid->, As Hoşgeldin Bro!");
+commandcreate("sa", "-userreply- As Hoşgeldin Bro!");
 
 csyhost.ready("Hello CsYHosted", "csycraft");
 
